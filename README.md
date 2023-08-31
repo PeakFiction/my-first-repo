@@ -6,3 +6,5 @@ StudentID  : 2206046790
 Class      : PBP KI
 
 Hobby      : Gaming
+
+Major      : Computer Science International Class
